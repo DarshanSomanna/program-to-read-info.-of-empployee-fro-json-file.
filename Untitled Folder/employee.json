@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "name": "Darshan",
+            "dob": "1997-04-14",
+            "height": 168,
+            "city": "Bangalore",
+            "state": "Karnataka"
+        },
+        {
+            "name": "Santosh",
+            "dob": "1989-12-25",
+            "height": 150,
+            "city": "Hyderabad",
+            "state": "AP"
+        },
+        {
+            "name": "JHON",
+            "dob": "1999-02-10",
+            "height": 180,
+            "city": "VANCO",
+            "state": "PARIS"
+        },
+        {
+            "name": "DAVID",
+            "dob": "1999-01-20",
+            "height": 190,
+            "city": "GAIKOD",
+            "state": "MP"
+        },
+        {
+            "name": "KEVIN",
+            "dob": "1985-11-13",
+            "height": 165,
+            "city": "BANDRAVAD",
+            "state": "CHENNAI"
+        }
+    ]
+}
